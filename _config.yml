@@ -5,7 +5,7 @@ rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Harish Vasudevasarma
-production_url : http://hvsarma.github.io
+production_url : hvsarma.github.io
 description: "All about statistics and machine learning from Harish Vasudevasarma"
 disqus_shortname: 
 analytics: UA-36900153-4
